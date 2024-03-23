@@ -1,4 +1,4 @@
-## Hey, Sou a Adrielle Dantas, seja bem vinde!
+## Olá pessoal, sou a Adrielle Dantas estudante de ciência da computação, sejam bem-vindos ao meu GitHub!
 
 
 ![Adrielle Dantas GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrielle-Dantas-27&show_icons=true&theme=onedark)
